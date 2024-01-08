@@ -11,7 +11,7 @@
 
 <h2>Overview of Scripts</h2>
 
-<h3>1. DataPreprocessingAndVisualization.py (lab9alab9.py)</h3>
+<h3>1. DataPreprocessingAndVisualization.py </h3>
 <p>Handles initial data reading, preprocessing, and visualization of data distributions through histograms.</p>
 <pre class="code">
 # Sample Code Snippet
@@ -19,7 +19,7 @@ readdata['TotalAffected'].plot(kind='hist')
 #...
 </pre>
 
-<h3>2. BasicLinearRegressionModel.py (lab9blab9.py)</h3>
+<h3>2. BasicLinearRegressionModel.py </h3>
 <p>Focuses on label encoding, splitting data into training and testing sets, and applying a basic linear regression model.</p>
 <pre class="code">
 # Sample Code Snippet
@@ -29,14 +29,14 @@ LinearRegression()
 #...
 </pre>
 
-<h3>3. ExtendedLinearRegressionModel.py (lab9clab9.py)</h3>
+<h3>3. ExtendedLinearRegressionModel.py </h3>
 <p>Similar to the basic linear regression model but possibly includes additional steps or extended analysis.</p>
 <pre class="code">
 # Sample Code Snippet
 # (Assuming similar to BasicLinearRegressionModel.py)
 </pre>
 
-<h3>4. PolynomialLinearRegressionModel.py (lab9dlab9.py)</h3>
+<h3>4. PolynomialLinearRegressionModel.py </h3>
 <p>Introduces polynomial features to the linear regression model for more complex relationships.</p>
 <pre class="code">
 # Sample Code Snippet
